@@ -7,7 +7,7 @@
 
 - GitHub资源下载 https://github.com/stascorp/rdpwrap/releases/tag/v1.6.2 由于开源库作者很久不在维护了，这里下载版本 v1.6.2 就行
 <div align=center>
-<img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718182745965.png" width = "735" height = "610"/>
+<img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718182745965.png" width = "735" height = "600"/>
 </div>
 
 

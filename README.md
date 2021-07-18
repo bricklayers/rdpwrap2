@@ -7,7 +7,7 @@
 
 - GitHub资源下载 https://github.com/stascorp/rdpwrap/releases/tag/v1.6.2 由于开源库作者很久不在维护了，这里下载版本 v1.6.2 就行
 <div align=center>
-<img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718182745965.png" width = "600" height = "677"/>
+<img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718182745965.png" width = "680" height = "630"/>
 </div>
 
 
@@ -31,4 +31,9 @@
 #### 局域网内手机远程桌面控制方案
 
 这是最终目的，如何实现手机远程控制桌面呢？前提是在同一网络环境下，`App Store` 搜索 `Microsoft 远程桌面` 下载，安装好后 **添加电脑** ，电脑名称填写电脑的 `IP地址` 即可，这样就可以远程链接电脑了，**特别注意的是 `电脑要设置密码` ，否则会连接不上**
+
+
+
+
+
 

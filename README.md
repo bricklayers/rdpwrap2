@@ -11,7 +11,7 @@
 
 - 然后解压缩，管理员权限运行 install.bat文件，然后双击运行RDPConf.exe文件，这里不出意外的话看到全绿就代表成功了
 
-![](https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718181819890.png#pic_center =10x10)
+![](https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718181819890.png#pic_center = 10x10)
 
 #### 疑难问题解决
 

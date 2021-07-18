@@ -1,11 +1,11 @@
 ### Window 10 家庭版远程桌面控制解决方案
 
 #### 方案背景
-由于个人比较懒想躺在床上用手机控制电脑，但又不想安装三方软件，这时就想到了局域网内通过 远程桌面 控制去搞定，而操蛋的是 Window 10 家庭版隐藏了远程桌面控制，就产生了下面的方案配置
+由于个人比较懒想躺在床上用手机控制电脑，但又不想安装三方软件，此时就只能局域网内通过 远程桌面控制 去搞定，而操蛋的是 Window 10 家庭版隐藏了远程桌面控制，所以我们首先要做的就是使其支持 远程桌面控制，那么怎么支持呢？这里就需要了开源库 `rdpwrap` 的登场了
 
-#### 开源工具 RDP Wrapper 配置
+#### 下载开源工具 RDP Wrapper 配置
 
-- GitHub资源下载 https://github.com/stascorp/rdpwrap/releases/tag/v1.6.2 由于开源库作者很久不在维护了，这里下载版本 v1.6.2 就行
+- GitHub资源下载 https://github.com/stascorp/rdpwrap/releases/tag/v1.6.2 由于开源库作者很久不再更新维护了，这里下载版本 v1.6.2 就行
 <div align=center>
 <img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718182745965.png" width = "735" height = "600"/>
 </div>

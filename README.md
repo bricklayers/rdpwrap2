@@ -7,7 +7,7 @@
 
 - GitHub资源下载 https://github.com/stascorp/rdpwrap/releases/tag/v1.6.2 由于开源库作者很久不在维护了，这里下载版本 v1.6.2 就行
 <div align=center>
-<img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718182745965.png" width = "507" height = "677"/>
+<img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718182745965.png" width = "600" height = "677"/>
 </div>
 
 
@@ -25,7 +25,7 @@
 
 - 诊断 **not listening** 未通过问题，这种情况比较复杂，网上也提供了多种方案和诊断方法，如 **远程功能** （`如何查看？控制面板，系统，高级系统设置，远程`）是否开启；**远程服务** 是否开启等，然而操蛋的是上面方案通通不适用我此时的问题，最终参考了 @**[bunyrabitt](https://github.com/bunyrabitt)** https://github.com/stascorp/rdpwrap/issues/1454#issuecomment-875980377 的回答，设置 `远程服务` 的属性 **此账户** 设置为 `NETWORK SERVICE` 问题得到了解决
 <div align=center>
-<img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718190557347.png" width = "507" height = "677"/>
+<img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718190557347.png" width = "507" height = "600"/>
 </div>
 
 #### 局域网内手机远程桌面控制方案

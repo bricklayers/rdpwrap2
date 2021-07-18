@@ -7,7 +7,7 @@
 
 - GitHub资源下载 https://github.com/stascorp/rdpwrap/releases/tag/v1.6.2 由于开源库作者很久不在维护了，这里下载版本 v1.6.2 就行
 
-<img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718182745965.png" alt="image-20210718182745965" style="zoom: 60%;" />
+<img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718182745965.png" alt="image-20210718182745965" style="zoom: 60%;" align=center />
 
 - 然后解压缩，管理员权限运行 install.bat文件，然后双击运行RDPConf.exe文件，这里不出意外的话看到全绿就代表成功了
 

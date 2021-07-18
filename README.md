@@ -7,7 +7,7 @@
 
 - GitHub资源下载 https://github.com/stascorp/rdpwrap/releases/tag/v1.6.2 由于开源库作者很久不在维护了，这里下载版本 v1.6.2 就行
 <div align=center>
-<img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718182745965.png" alt="image-20210718182745965" style="zoom: 20%;" align=center />
+<img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718182745965.png" width = "507" height = "677"/>
 </div>
 
 
@@ -24,8 +24,9 @@
 - 诊断 **not supported** 未通过问题，因为这个软件几年不更新了，所以配置文件都是旧的，需要自己去找最新的配置文件进行更新，具体可以根据如上图 `ver.10.0.19041.1081` 对应自己的版本去仓库的`Issues` 搜索自己的版本，找到对应版本后覆盖 **C:\Program Files\RDP Wrapper\rdpwrap.ini** 一般都能解决，这里要注意覆盖前要先关闭 `远程服务`，后在启动
 
 - 诊断 **not listening** 未通过问题，这种情况比较复杂，网上也提供了多种方案和诊断方法，如 **远程功能** （`如何查看？控制面板，系统，高级系统设置，远程`）是否开启；**远程服务** 是否开启等，然而操蛋的是上面方案通通不适用我此时的问题，最终参考了 @**[bunyrabitt](https://github.com/bunyrabitt)** https://github.com/stascorp/rdpwrap/issues/1454#issuecomment-875980377 的回答，设置 `远程服务` 的属性 **此账户** 设置为 `NETWORK SERVICE` 问题得到了解决
-
-  <img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718190557347.png" alt="image-20210718190557347" style="zoom:90%;" />
+<div align=center>
+<img src="https://github.com/bricklayers/resources/blob/master/rdpwrap2/20210718190557347.png" width = "507" height = "677"/>
+</div>
 
 #### 局域网内手机远程桌面控制方案
 
